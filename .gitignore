@@ -1,0 +1,39 @@
+# IDEs
+.idea/
+.vs/
+.vscode/
+*.user
+*.suo
+
+# .NET build output
+bin/
+obj/
+[Dd]ebug/
+[Rr]elease/
+TestResults/
+*.log
+
+# Secrets and local config (use dotnet user-secrets or environment variables)
+.env
+.env.*
+!.env.example
+appsettings.Secrets.json
+appsettings.*.local.json
+secrets.json
+*.pfx
+*.key
+
+# Angular / Node
+node_modules/
+dist/
+.angular/
+coverage/
+
+# Load test reports and local data
+nbomber_reports/
+reports/
+*.db
+
+# OS
+.DS_Store
+Thumbs.db
