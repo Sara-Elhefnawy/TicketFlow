@@ -23,7 +23,7 @@ csharp_using_directive_placement = outside_namespace:warning
 csharp_prefer_braces = true:suggestion
 dotnet_sort_system_directives_first = true
 dotnet_style_qualification_for_field = false:suggestion
-dotnet_style_require_accessibility_modifiers = always:warning
+dotnet_style_require_accessibility_modifiers = for_non_interface_members:warning
 csharp_style_expression_bodied_methods = when_on_single_line:suggestion
 
 # Naming: private fields as _camelCase

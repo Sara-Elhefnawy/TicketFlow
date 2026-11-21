@@ -1,0 +1,34 @@
+<Solution>
+  <Folder Name="/src/" />
+  <Folder Name="/src/Catalog/">
+    <Project Path="src/Catalog/TicketFlow.Catalog.csproj" />
+  </Folder>
+  <Folder Name="/src/Identity/">
+    <Project Path="src/Identity/TicketFlow.Identity.csproj" />
+  </Folder>
+  <Folder Name="/src/Notifications/">
+    <Project Path="src/Notifications/TicketFlow.Notifications.csproj" />
+  </Folder>
+  <Folder Name="/src/Ordering/">
+    <Project Path="src/Ordering/TicketFlow.Ordering.csproj" />
+  </Folder>
+  <Folder Name="/src/Payments/">
+    <Project Path="src/Payments/TicketFlow.Payments.csproj" />
+  </Folder>
+  <Folder Name="/src/Reservations/">
+    <Project Path="src/Reservations/TicketFlow.Reservations.csproj" />
+  </Folder>
+  <Folder Name="/src/SharedKernel/">
+    <Project Path="src/SharedKernel/TicketFlow.SharedKernel.csproj" />
+  </Folder>
+  <Folder Name="/tests/" />
+  <Folder Name="/tests/Ordering.Tests/">
+    <Project Path="tests/Ordering.Tests/TicketFlow.Ordering.Tests.csproj" />
+  </Folder>
+  <Folder Name="/tests/Reservations.Tests/">
+    <Project Path="tests/Reservations.Tests/TicketFlow.Reservations.Tests.csproj" />
+  </Folder>
+  <Folder Name="/tests/SharedKernel.Tests/">
+    <Project Path="tests/SharedKernel.Tests/TicketFlow.SharedKernel.Tests.csproj" />
+  </Folder>
+</Solution>
