@@ -15,7 +15,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\src\Reservations\TicketFlow.Reservations.csproj" />
+    <ProjectReference Include="..\..\src\Reservations\TicketFlow.Reservations.Domain.csproj" />
   </ItemGroup>
 
 </Project>
